@@ -10,11 +10,11 @@ country: "gb"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "55.96327"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-3.23222"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "ADD DATE"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "ADD DATE"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate:   ADD DATE    # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate:    ADD DATE     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor:  # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+humandate: "28-31 March 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "14-18 UTC"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate:   2023-03-28    # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate:    2023-03-31     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor:  ["Susan McClatchy", "Livia Scorza", "Tomasz Zieliński"]# boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper:      # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["bio_rdm@ed.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -112,13 +112,30 @@ and hands-on lessons where you will use the approaches learned and implement som
 
 The course is aimed at active researchers in biomedicine science (PhD students, postdocs, technicians, young PIs etc.) who are interested in Open Science, FAIR (*Findable, Accessible, Interoperable and Reusable*) principles and efficient data management. This training is aimed at those who want to be familiar with these concepts and apply them throughout their project’s life cycle. The course is covered in four half days.
 
+Couse include among others:
+- Introduction to Open Science and FAIR
+- IP, Licensing and Openness 
+- Ontologies
+- (Meta)data in Excel
+- Laboratory Records
+- Working with files
+- Jupyter for Reusable analysis
+- Version control 
+- Public repositories
+- Writing Data Management Plan
+
+
+
+You can check the full content of the course at [FAIR-bio-practice](https://carpentries-incubator.github.io/fair-bio-practice/index.html)
+
+
 **Ed-DaSH**
 
 Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Biosciences. The [team](https://edcarp.github.io/Ed-DaSH/ed_dash_team.html) has developed workshops using [The Carpentries](https://carpentries.org/) platform on the following topics. See [workshops](https://edcarp.github.io/Ed-DaSH/workshops.html) for dates and registration details. All workshops will be delivered remotely.
 
 <h2 id="general">General Information</h2>
 
-<strong>Registration:</strong> [Online](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/school-of-molecular-genetic-and-population-health-sciences/igmm/fair-in-biological-practice)  
+<strong>Registration:</strong> [Online]()  
 The course is free but there is a 50 pounds holding deposit refunded after attending the workshop.
 
 {% comment %}
