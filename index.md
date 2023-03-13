@@ -136,7 +136,7 @@ Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Bioscien
 <h2 id="general">General Information</h2>
 
 <strong>Registration:</strong> [Online]()  
-The course is free but there is a 50 pounds holding deposit refunded after attending the workshop.
+
 
 {% comment %}
 
