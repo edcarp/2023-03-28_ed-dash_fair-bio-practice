@@ -112,7 +112,7 @@ and hands-on lessons where you will use the approaches learned and implement som
 
 The course is aimed at active researchers in biomedicine science (PhD students, postdocs, technicians, young PIs etc.) who are interested in Open Science, FAIR (*Findable, Accessible, Interoperable and Reusable*) principles and efficient data management. This training is aimed at those who want to be familiar with these concepts and apply them throughout their project’s life cycle. The course is covered in four half days.
 
-The course include among others:
+The course topics include among others:
 - Introduction to Open Science and FAIR
 - IP, Licensing and Openness 
 - Ontologies
