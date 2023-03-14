@@ -18,7 +18,7 @@ instructor:  ["Susan McClatchy", "Livia Scorza", "Tomasz Zieliński"]# boxed, co
 helper:      # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["bio_rdm@ed.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: 583942928017 # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -112,10 +112,6 @@ You can check the full content of the course at [FAIR-bio-practice](https://carp
 
 Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Biosciences. The [team](https://edcarp.github.io/Ed-DaSH/ed_dash_team.html) has developed workshops using [The Carpentries](https://carpentries.org/) platform on the following topics. See [workshops](https://edcarp.github.io/Ed-DaSH/workshops.html) for dates and registration details. All workshops will be delivered remotely.
 
-<h2 id="general">General Information</h2>
-
-<strong>Registration:</strong> [Online](https://www.eventbrite.com/e/583942928017)  
-
 
 {% comment %}
 EVENTBRITE
@@ -138,6 +134,14 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
+
+
+<h2 id="general">General Information</h2>
+
+<strong>Registration:</strong> [Online](https://www.eventbrite.com/e/583942928017)  
+
+
+
 
 
 {% comment %}
